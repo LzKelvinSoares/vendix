@@ -1,0 +1,17 @@
+{
+  "name": "Vendix",
+  "short_name": "Vendix",
+  "description": "AI resale valuation for scanned products.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#0F9D58",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
